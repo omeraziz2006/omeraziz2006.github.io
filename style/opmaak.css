@@ -2,6 +2,7 @@
 body {
  background-color: black;
  color: turquoise;
+ font-family: georgia;
 }
 
 h1 {
@@ -15,5 +16,3 @@ h2 {
 p {
   text-align: justify;
 }
-
-font-family: georgia;
