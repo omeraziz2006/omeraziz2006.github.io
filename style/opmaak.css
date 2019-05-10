@@ -9,10 +9,12 @@ h1 {
   text-align: right;
 }
 
+
 h2 {
   text-align: center;
 }
 
 p {
   text-align: justify;
+  font-size: 12px;
 }
