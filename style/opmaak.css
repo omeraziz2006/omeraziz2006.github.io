@@ -1,7 +1,7 @@
 /* alle pagina's zijn standaard zwart */
 body {
- background-color: black;
- color: turquoise;
+ background-color: #000000;
+ color: #40E0D0;
  font-family: serif;
 }
 
