@@ -6,17 +6,18 @@ body {
 }
 
 h1 {
-  text-align: right;
+  text-align: left;
 }
 
 
 h2 {
+  border: 4px solid orange;
   font-style: italic;
-  text-align: center;
+  text-align: left;
   letter-spacing: 1px;
 }
 
 p {
-  text-align: justify;
+  text-align: left;
   letter-spacing: 1px;
 }
