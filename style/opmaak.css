@@ -39,7 +39,7 @@ img {
 }
 
 ul {
-  background-color: orange;
+  background-color: #FF0000;
   margin-top: 20px;
   margin-left: 10px;
   margin-right: 10px;
@@ -47,6 +47,7 @@ ul {
   padding-left: 10px;
   padding-top: 10px;
   padding-bottom: 20px;
+  word-spacing: 5px
 }
 
 li a {
@@ -56,4 +57,9 @@ li a {
 
 li  {
   display: inline-block; none;
+}
+
+li a hover {
+  background-color: #8B4513;
+  
 }
