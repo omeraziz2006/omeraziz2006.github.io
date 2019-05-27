@@ -18,6 +18,7 @@ h2 {
   font-style: italic;
   text-align: left;
   letter-spacing: 1px;
+  background-color: #FF0000;
 }
 
 h3 {
@@ -41,13 +42,13 @@ img {
 }
 
 ul {
-  background-color: #00008B;
+  background-color: #32CD32;
   margin-left: 0px;
   margin-right: 0px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  /* padding-top: 10px;
-  padding-bottom: 5px; */
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 10px;
+  padding-bottom: 0px;
   padding-left: 0px;
   padding-right: 0px;
   list-style-type: none;
@@ -67,8 +68,27 @@ li  {
 }
 
 li a:hover {
-  background-color: #000000;
-  color: #FFFFFF;
-  /* padding-top: 10px; */
-  /* padding-bottom: 0px: */
+  background-color: #000080;
+  color: #FFD700;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+iframe {
+  border: 4px #8B0000 double;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.vraag {
+
+}
+
+.antwoord {
+  color: #FFFF00;
+  background-color: #FFFF00;
+  font-style: italic;
+}
+
+.antwoord:hover {
+  color: #000000;
 }
